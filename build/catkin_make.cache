@@ -1,0 +1,2 @@
+hrt-120_robot_description:hrt-120_robot_gazebo:hrt-120_robot_moveit_config
+-DCATKIN_DEVEL_PREFIX=/home/km/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/km/catkin_ws/install -G Unix Makefiles
